@@ -6,15 +6,9 @@ The content of this file will look something like this:
 ```javascript
 PREVIEW_TOKEN="the-token-from-your-space"
 ```
+### See all your 'Links'
 
-## Getting Started
-
-First, run the development server:
-
-```bash
-npm run dev
-# or
-yarn dev
+The link below allows you to see all your current Links/Routes in your Storyblok api. Add your token in the place of "your-token-here".
 ```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+https://api.storyblok.com/v1/cdn/links?&starts_with=pages&version=draft&token=your-token-here
+```
