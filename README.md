@@ -3,6 +3,7 @@
 ### Next.js boilerplate that is already connected to Storyblok API.
 
 Create a new space and retrieve your preview token for that Space. Add the token to your Storyblok client in storyblok.js as the accessToken directly or from an .env file. In this boilerplate I will add my token to '.env' file. 
+
 The content of this file will look something like this:
 ```javascript
 PREVIEW_TOKEN="the-token-from-your-space"
