@@ -6,6 +6,9 @@ The content of this file will look something like this:
 ```javascript
 PREVIEW_TOKEN="the-token-from-your-space"
 ```
+
+Basic components created displaying the default data from Storyblok API. Also examples of Dynamic Routing.
+
 ### See all your 'Links'
 
 The link below allows you to see all your current Links/Routes in your Storyblok api. Add your token in the place of "your-token-here".
